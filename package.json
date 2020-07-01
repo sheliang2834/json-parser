@@ -1,0 +1,24 @@
+{
+  "name": "json-parser",
+  "version": "1.0.0",
+  "description": "json parser stringify parse",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sheliang2834/json-parser.git"
+  },
+  "keywords": [
+    "json",
+    "parser",
+    "stringify",
+    "parse"
+  ],
+  "author": "Jackie",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
